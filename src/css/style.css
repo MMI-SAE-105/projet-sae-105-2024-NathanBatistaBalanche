@@ -1,0 +1,8 @@
+@import "normalize/normalize.css";
+@import "menu/menu.css";
+@import "main/main.css";
+@import "header_mobile/header_mobile.css";
+@import "header/header.css";
+@import "footer/footer.css";
+@import "carousel/carousel.css";
+@import "carousel/card/card.css";
