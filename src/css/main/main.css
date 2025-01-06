@@ -2,3 +2,25 @@
     position: relative;
     z-index:1;
 }
+
+.main--semi__title {
+    width : 383px;
+    color: var(--Dark-gray-3, #252525);
+    font-family: "Hammersmith One";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left:10px;
+}
+
+.main--text__uppercase {
+    color: var(--Dark-gray-3, #252525);
+    font-family: Fredoka;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    margin: 10px;
+}
