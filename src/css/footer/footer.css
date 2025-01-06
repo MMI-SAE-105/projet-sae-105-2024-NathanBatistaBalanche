@@ -1,0 +1,32 @@
+.footer {
+    background: var(--Dark-gray-3, #252525);
+}
+
+.footer--logo {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 15px;
+    transform: translateY(16px);
+}
+
+.footer--title {
+    color: var(--Yellow-3, #EED204);
+    font-family: "Hammersmith One";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    margin-left:160px;
+    margin-top:-38px;
+}
+
+.footer--icon{
+    width: 25px;
+    height: 25px;
+    flex-shrink: 0;
+}
