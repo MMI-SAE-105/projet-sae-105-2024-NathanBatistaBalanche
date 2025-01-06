@@ -1,6 +1,8 @@
 .header__mobile {
-    top:0;
     width:100%;
+    position: sticky;
+    top:0;
+    z-index:100;
     height: 73px;
     flex-shrink: 0;
     background: linear-gradient(90deg, #EED204 0%, #FFFF6D 100%);
