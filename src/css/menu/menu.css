@@ -1,0 +1,100 @@
+.menu--text {
+    color: var(--Black-2, #252525);
+    font-family: "Hammersmith One";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    text-decoration: none;
+    margin-left: 25%;
+    transform: translateY(45%);
+}
+
+.menu--logo{
+    display: flex;
+    width: 117.523px;
+    height: auto;
+    padding-right: 0.004px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin-top:15px;
+    margin-left:25px;
+}
+
+.menu--cross__icon {
+    width: 56px;
+    height:56px;
+}
+
+.menu--cross__btn {
+    width: 56px;
+    height:56px;
+    background-color: transparent;
+    border:none;
+    position:absolute;
+    margin-top: -75px;
+    margin-left: 80%;
+}
+
+.menu {
+    visibility: hidden;
+    display: flex;
+    position: fixed;
+    inset: 0;
+    margin-top:-0px;
+    z-index: 111;
+    background: linear-gradient(180deg, #EED204 0%, #FFFF6D 100%);
+    color: var(--white);
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--space5x) var(--space3x) var(--space3x);
+    transform: translateX(100vw);
+    transition: all 0.3s ease-in-out;
+}
+.menu[aria-hidden="false"] {
+    transform: translateX(0);
+    visibility: visible;
+}
+  
+.menu__link {
+    color: var(--white);
+    text-decoration: none;
+    font-size: var(--fs-xl);
+    display: block;
+}
+  
+.menu__link--silent {
+    color: var(--gray-600);
+    font-size: var(--fs-s);
+}
+  
+.menu__item {
+    margin-bottom: var(--space3x);
+    padding-bottom: var(--space1x);
+    border-bottom: 1px solid var(--white);
+}
+  
+.menu-btn__bar::before {
+    top: -10px;
+}
+  
+.menu-btn__bar::after {
+    top: 10px;
+}
+
+.menu-btn[aria-expanded="true"] .menu-btn__bar,
+.menu-btn[aria-expanded="true"] .menu-btn__bar::before,
+.menu-btn[aria-expanded="true"] .menu-btn__bar::after {
+    transform: rotate(135deg);
+    background: var(--white);
+}
+  
+.menu-btn[aria-expanded="true"] .menu-btn__bar::before,
+.menu-btn[aria-expanded="true"] .menu-btn__bar::after {
+    transform: rotate(90deg);
+    top: 0;
+}
+  
+
