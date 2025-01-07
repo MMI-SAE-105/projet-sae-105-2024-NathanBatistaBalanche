@@ -33,12 +33,14 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-top:30px;
     margin-left:13%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--button__next__1 {
@@ -49,11 +51,13 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-left: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--card__1{
@@ -97,12 +101,14 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-top:30px;
     margin-left:13%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--button__next__2 {
@@ -113,11 +119,13 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-left: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--card__2{
@@ -160,12 +168,14 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-top:30px;
     margin-left:13%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--button__next__3 {
@@ -176,11 +186,13 @@
     cursor: pointer;
     padding: 10px 20px;
     font-size: 18px;
+    font-family: "Hammersmith One";
     z-index: 10;
     border-radius: 50%;
     user-select: none;
     z-index: 9;
     margin-left: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
 .carousel--card__3{

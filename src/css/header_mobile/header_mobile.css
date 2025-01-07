@@ -6,6 +6,7 @@
     height: 73px;
     flex-shrink: 0;
     background: linear-gradient(90deg, #EED204 0%, #FFFF6D 100%);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 .header__mobile--logo {
