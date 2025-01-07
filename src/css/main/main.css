@@ -24,3 +24,49 @@
     text-transform: uppercase;
     margin-left: 15px;
 }
+
+.main--img {
+    margin-left:9.5%;
+    width: 80%;
+    height: auto;
+}
+
+.main--text {
+    width:94%;
+    margin-left:3%;
+    margin-bottom:20px;
+    font-family: Fredoka;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main--text__bold {
+    font-family: Fredoka;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.main--little__text {
+    width:85%;
+    margin-left:7%;
+    margin-bottom: 25px;
+    color: var(--Dark-gray-1, #343434);
+    font-family: Fredoka;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.main--little__text__bold {
+    color: var(--Dark-gray-1, #343434);
+    font-family: Fredoka;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
