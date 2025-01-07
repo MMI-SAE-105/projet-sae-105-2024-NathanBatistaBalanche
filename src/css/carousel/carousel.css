@@ -200,3 +200,19 @@
     align-items: center;
     justify-content: center;
 }
+
+
+/* Global */
+
+.carousel--card__block {
+    display: flex;
+    padding-left:10px;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 20px;
+    border: 2px solid var(--Dark-gray-3, #252525);
+    background: linear-gradient(180deg, #EED204 0%, #FFFF6D 100%);
+    width:295px;
+    margin-top:-5px;
+    margin-left:12px;
+}

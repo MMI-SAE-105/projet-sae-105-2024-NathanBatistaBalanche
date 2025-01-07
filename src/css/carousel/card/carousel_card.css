@@ -23,7 +23,6 @@
     border: 2px solid var(--Dark-gray-3, #252525);
     background: linear-gradient(180deg, #EED204 0%, #FFFF6D 100%);
     width:295px;
-    margin-top:-5px;
 }
 
 .card--title {
