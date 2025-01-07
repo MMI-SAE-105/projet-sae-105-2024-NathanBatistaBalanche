@@ -55,6 +55,7 @@
     transform: translateX(100vw);
     transition: all 0.3s ease-in-out;
 }
+
 .menu[aria-hidden="false"] {
     transform: translateX(0);
     visibility: visible;
