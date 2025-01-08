@@ -1,0 +1,57 @@
+.projectcard--title {
+    color: var(--Dark-gray-1, #343434);
+    font-family: "Hammersmith One";
+    font-size: 150%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top:3.5%;
+    margin-bottom:0px;
+    margin-left:3.5%;
+}
+
+.projectcard--text {
+    color: var(--Dark-gray-1, #343434);
+    font-family: Fredoka;
+    font-size: 115%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom:0px;
+    margin-top:1.5%;
+    margin-left:3.5%;
+}
+
+.projectcard--little__text {
+    color: var(--Dark-gray-1, #343434);
+    font-family: Fredoka;
+    font-size: 90%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top:3%;
+    margin-bottom:3.5%;
+    margin-left:3.5%;
+}
+
+.projectcard--block {
+    border-radius: 10px;
+    border: 2px solid var(--Dark-gray-3, #252525);
+    background: linear-gradient(180deg, #EED204 0%, #FFFF6D 100%);
+    width:70%;
+    position:absolute;
+    margin-top:-15%;
+    margin-left:27%;
+}
+
+.projectcard--img {
+    width:25%;
+    margin-left:1%;
+    margin-bottom:0px;
+    border-radius: 10px;
+    border: 2px solid var(--Dark-gray-3, #252525);    
+}
+
+.projectcard {
+    margin-bottom:18%
+}
