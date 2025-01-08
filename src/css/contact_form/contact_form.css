@@ -1,0 +1,45 @@
+.contact__form--input {
+    background-color: transparent;
+    border:none;
+    color: var(--Gray-1, #515151);
+    font-family: "Fredoka";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left:10%;
+    margin-top:-8px;
+    margin-bottom: -8px;
+    width:80%;
+}
+
+.contact__form {
+    margin-left:6%;
+
+}
+
+.contact__form--line {
+    width:80%;
+    border:none;
+    background-color: #EED204;
+    height:1px;
+    margin-bottom:25px;
+}
+
+.contact__form--btn{
+    display: inline-flex;
+    padding: 14px 18px;
+    align-items: center;
+    gap: 24px;
+    border-radius: 20px;
+    background: var(--Yellow-1, #FEFF4C);
+    color: var(--Dark-gray-1, #343434);
+    text-align: center;
+    font-family: Fredoka;
+    font-size: 90%;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 37%;
+    margin-bottom: 24px;
+}

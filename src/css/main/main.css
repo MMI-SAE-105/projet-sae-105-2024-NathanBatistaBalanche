@@ -5,6 +5,7 @@
 
 .main--semi__title {
     width : 383px;
+    max-width:90%;
     color: var(--Dark-gray-3, #252525);
     font-family: "Hammersmith One";
     font-size: 25px;
