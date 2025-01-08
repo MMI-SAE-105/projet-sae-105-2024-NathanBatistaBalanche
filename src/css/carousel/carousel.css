@@ -216,3 +216,22 @@
     margin-top:-5px;
     margin-left:12px;
 }
+
+.carousel--card__text {
+    width: 271px;
+    max-width: 271px;
+    color: var(--Dark-gray-3, #252525);
+    font-family: Fredoka;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: normal;
+    margin-top:10px;
+    margin-bottom:23px;
+}
+
+.carousel--card__img {
+    width: 327px;
+    height: 250px;
+    border-radius:20px;
+    border: 2px solid var(--Dark-gray-3, #252525);
+}
