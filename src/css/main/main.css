@@ -80,3 +80,7 @@
     height:auto;
     margin-left:7.5%;
 }
+
+h3 a {
+    color: var(--Dark-gray-1, #343434);
+}
