@@ -14,13 +14,13 @@
     color: var(--Light-gray-2, #EEE);
     -webkit-text-stroke:2px black;
     font-family: "Hammersmith One";
-    width: 85%;
+    width: 90%;
     font-size: 36px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     position: absolute;
     margin-top: 50%;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-bottom: 30px;
 }
