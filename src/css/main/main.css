@@ -51,7 +51,7 @@
 }
 
 .main--little__text {
-    width:85%;
+    width:90%;
     margin-left:5%;
     margin-bottom: 25px;
     color: var(--Dark-gray-1, #343434);
@@ -83,4 +83,8 @@
 
 h3 a {
     color: var(--Dark-gray-1, #343434);
+}
+
+h2 a {
+    color: var(--Dark-gray-3, #252525);
 }
