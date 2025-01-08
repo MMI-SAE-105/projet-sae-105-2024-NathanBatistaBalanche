@@ -33,6 +33,7 @@
 }
 
 .main--text {
+    color: var(--Dark-gray-3, #252525);
     width:94%;
     margin-left:3%;
     margin-bottom:20px;
@@ -87,5 +88,16 @@ h3 a {
 }
 
 h2 a {
+    color: var(--Dark-gray-3, #252525);
+}
+
+.main--film__cover {
+    width:60%;
+    height:auto;
+    margin-left:20%;
+    margin-bottom: 10px;;
+}
+
+.main--text a {
     color: var(--Dark-gray-3, #252525);
 }
